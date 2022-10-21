@@ -63,8 +63,6 @@ My name is Alex, I'm a full stack software engineer based in London, with a back
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <img src="/images/funfact.png" >
 
