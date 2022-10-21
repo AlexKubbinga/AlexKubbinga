@@ -50,12 +50,16 @@ My name is Alex, I'm a full stack software engineer based in London, with a back
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 
-<h1 align="center">My latest project: </h1>
+<h1 align="center">My latest projects: </h1>
 <div align="center">
  <a href="https://github.com/AlexKubbinga/HabitTrack" align="center">⌚️ HabitTrack</a></a>
+  <a href="https://github.com/AlexKubbinga/WattaniteRefactor" align="center">🍿 What a Night</a></a>
+    <a href="https://github.com/flowerco/okane" align="center">💰 Okane</a></a>
   </div>
 
 
+
+<img href="/images/funfacts.png">
 
 
 
