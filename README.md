@@ -59,7 +59,13 @@ My name is Alex, I'm a full stack software engineer based in London, with a back
 
 
 
-<img src="/images/funfacts.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="/images/funfacts.png" >
 
 
 
