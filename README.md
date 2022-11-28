@@ -3,7 +3,7 @@
 <h1 align="center">Hi there  👋</h1>
 
 
-My name is Alex, I'm a full stack software engineer based in London, with a background in data science. Building projects mostly with React, but always experimenting with new technologies (ex: Remix). Interested in 💳 Fintech and 🏋️‍♂️ HealthTech and 🤖 Machine Learning.
+My name is Alex, I'm a full stack software engineer based in London, with a background in data science. Building projects mostly with React, but always experimenting with new technologies (ex: Remix). Interested in 💳 Fintech, 🏋️‍♂️ HealthTech and 🤖 Machine Learning.
 
 
 <a href="https://www.linkedin.com/in/alexkubbinga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a><a href="mailto:alexkubbinga18@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
